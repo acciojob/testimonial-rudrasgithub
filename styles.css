@@ -2,7 +2,6 @@
 #testimonial {
 	background-color: #f5f5f5;
 	padding: 20px;
-	width: 100%;
 }
 #testimonial div {
 	padding: 5px 10px;
@@ -11,11 +10,12 @@
 	margin-top: 20px;
 }
 #testimonial div p {
-	font-size: 12px;
+	font-size: 10px;
 }
 #testimonial span {
 	font-style: italic;
 	text-align: end;
+	font-size: 12px;
 }
 #testimonial div {
 	display: flex;
