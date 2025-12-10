@@ -10,6 +10,9 @@
 	border: 2px solid grey;
 	margin-top: 20px;
 }
+#testimonial div p {
+	font-size: 12px;
+}
 #testimonial span {
 	font-style: italic;
 	text-align: end;
